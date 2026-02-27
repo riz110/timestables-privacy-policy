@@ -1,5 +1,5 @@
 # timestables-privacy-policy
-# Privacy Policy for Times Tables Master
+# Privacy Policy for Times Tables
 
 **Last Updated:** February 14, 2026
 
